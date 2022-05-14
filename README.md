@@ -11,7 +11,7 @@
   <img align="center" alt="SalvaSDR-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="SalvaSDR-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="SalvaSDR-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="SalvaSDR-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/208584893054189571/4c2cbc3c41b069d21aaf24239a11df6a.webp">
+  <img align="right" alt="SalvaSDR-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/43096058?v=4">
 </div>
   
   ##
